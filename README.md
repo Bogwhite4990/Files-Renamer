@@ -12,7 +12,7 @@ A Python script that allows the user to rename all files in a folder and sort th
 Note: Make sure that you have Python installed on your computer before running the script.
 
 ## Dependencies
-This script requires the tkinter library, which is included with most Python installations.
+This script requires the **tkinter** library, which is included with most Python installations.
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
