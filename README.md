@@ -1,7 +1,7 @@
-## File Renamer
+## **File Renamer**
 A Python script that allows the user to rename all files in a folder and sort them by name.
 
-##  Usage
+##  **Usage**
 1. Download the script and save it to your computer.
 2. Open a terminal or command prompt and navigate to the folder containing the script.
 3. Run the script using **python file_renamer.py.**
@@ -11,10 +11,10 @@ A Python script that allows the user to rename all files in a folder and sort th
 
 Note: Make sure that you have Python installed on your computer before running the script.
 
-## Dependencies
+## **Dependencies**
 This script requires the **tkinter** library, which is included with most Python installations.
 
-## Contributing
+## **Contributing**
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
